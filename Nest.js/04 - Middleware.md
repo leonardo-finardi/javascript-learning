@@ -86,9 +86,9 @@ export class CustomExceptionFilter implements ExceptionFilter {
 
 Apply the error handling middleware in the same way as regular middleware, either globally or at specific controllers.
 
-## Using Middleware
+# Using Middleware
 
-# 1 - Importing and Using Middleware
+## Importing and Using Middleware
 
 Import and use middleware within the relevant modules or controllers where you want them to apply.
 
