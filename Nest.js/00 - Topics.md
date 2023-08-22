@@ -33,7 +33,7 @@ Integrating with databases using popular Object-Relational Mapping (ORM) librari
 Defining and using entities, repositories, and queries.
 Performing database operations, including CRUD operations.
 
-# Validation and Serialization
+## Validation and Serialization
 
 Validating incoming data using decorators and built-in validation pipes.
 Transforming data using serialization and deserialization techniques.
